@@ -1,0 +1,6 @@
+package campman
+
+class DiceRollerController {
+
+    def index() { }
+}
